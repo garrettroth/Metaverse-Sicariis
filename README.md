@@ -4,5 +4,5 @@ The Sicarrii are known to be the first organized cloak and dagger assassion grou
 
 Tool Box:
   1.) Coin Market Cap - This program allows you to pull the top 100 cryptocurrencies by Marketcap
-  2.  Twitter_api - This program allows you to search for x number of tweets from a choosen topic.
+  2.) Twitter_api - This program allows you to search for x number of tweets from a choosen topic.
  
